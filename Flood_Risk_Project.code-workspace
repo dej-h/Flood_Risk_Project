@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"http.proxyAuthorization": null,
+		"python.autoComplete.extraPaths": [
+
+		],
+		"python.analysis.extraPaths": []
+	}
+}
